@@ -1,5 +1,10 @@
-author_image: /images/author.jpg
-description_markdown: "My name is **Jane Doe**, I like baking and eating sweet things."
+author_image: /uploads/84600773-2933448003354008-4131695965373464576-n.jpg
+description_markdown: >-
+  My name is **Manuela Carole**, I like baking and eating sweet things.
+
+
+  <div id="gtx-trans" style="position: absolute; left: 143px; top: 34px;"><div
+  class="gtx-trans-icon">&nbsp;</div></div>
 facebook: CloudCannon
 twitter: CloudCannon
 pinterest: pinterest
