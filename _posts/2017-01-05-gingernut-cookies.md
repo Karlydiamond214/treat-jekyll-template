@@ -1,38 +1,100 @@
 ---
-date: 2017-01-05
+date: 2017-01-05 00:00:00
 title: Gingernut Cookies
 categories:
-  - Cookies
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+  - Food
+featured_image: >-
+  https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 2-3 Persons
+  prep: 2 heures
+  cook: 2 heures
   ingredients_markdown: |-
-    * 200 g butter
-    * 1 cup sugar
-    * 1 cup golden syrup
-    * 3 cups flour
-    * 1 tablespoon ground ginger
-    * 1 teaspoon baking soda
-  directions_markdown: |-
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+    * 750g de feuilles d'épinards (Blattspinat) 1 paquet
+
+    * 2 kg de choux Frisée (Grünkohl) 2 parquets
+
+    * 100g de crevettes
+
+    * 1 kg de viande de Boeuf
+
+    * 250 ml d'huileHuile de tournesol
+
+    * 3 Gros Oignons émincés
+
+    * 600g Pâte d’arachide
+
+    * 3 cm de gingembre
+
+    * 5 gousses Ail
+
+    * 1Piment, Poivre
+
+    * cube au choix
+  directions_markdown: >-
+    1. Dans une casserole portez à ébullition 1,5 litres d’eau avec le sel et
+    bicarbonate, pour garder la couleur verte des légumes.
+
+
+    2. &nbsp;Plongez les feuilles de ndolé dans l’eau bouillante et laissez
+    cuire à découvert pendant 5 minutes.
+
+
+    3. Egouttez-les et passez-les sous l’eau froide. Pressez les feuilles avec
+    vos mains afin d’extraire un maximum d’eau. Réservez.
+
+
+    4. Dans une cocotte, faites revenir les morceaux de viande avec environ 5
+    cuillerées à soupe d’huile.
+
+
+    5. Une fois que la viande colore, ajoutez les oignons et mélangez. Ajoutez
+    200ml d’eau et laissez cuire la viande.
+
+
+    6. Ajoutez ensuite l’ail, le piment, les crevettes séchées, préalablement
+    écrasé puis la pâte d’arachide. Laissez cuire à feu doux pendant 20
+    minutes à couvert.
+
+
+    7. Ajoutez les feuilles dans la p&acirc;te d'arachide et rectifiez
+    l’assaisonnement
+
+
+    8. Terminez la cuisson à feu doux pendant 15 minutes en mélangeant
+    régulièrement.
+
+
+    9. servir accompagné de semoule de maïs, de bananes plantain ou encore de
+    miondo, du riz...
+
+       &nbsp;
+
+       &nbsp;
+
+       &nbsp;
+
+       &nbsp;
+
+       &nbsp;
+
+       &nbsp;
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+RECETTE des &Eacute;PINARDS sautés fa&ccedil;on Ndol&egrave; &agrave; la fa&ccedil;on Manucreme. Cette recette est pour ceux qui ont envie de manger un bon Ndol&egrave; Camerounais et qui n'ont pas les feuilles de Ndol&egrave;. Aussi pour les personnes qui sont curieuses de go&ucirc;ter d'autres Variantes avec les légumes.
 
-Carefully placing them on the tray.
+![Cookie](/uploads/121246554-195158788684036-7355990087354061869-n-1.jpg){: width="721" height="960"}
 
-![Cookie](https://source.unsplash.com/RUPPakds28k)
+Blablabla
 
-Little Gavin loves them.
+![](/uploads/121666580-195158808684034-386349668868991432-n.jpg){: width="720" height="960"}
 
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
+Blablabla
 
-Delicious!
+![](/uploads/121735320-195158825350699-8681158573540534354-n.jpg){: width="527" height="960"}
+
+Blablabla
+
+&nbsp;
+
+Delicious\!
