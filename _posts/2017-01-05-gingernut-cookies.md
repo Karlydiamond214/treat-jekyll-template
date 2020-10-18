@@ -3,8 +3,7 @@ date: 2017-01-05 00:00:00
 title: Gingernut Cookies
 categories:
   - Food
-featured_image: >-
-  https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+featured_image: /uploads/121246554-195158788684036-7355990087354061869-n-1.jpg
 recipe:
   servings: 2-3 Persons
   prep: 2 heures
